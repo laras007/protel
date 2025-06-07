@@ -1,1 +1,1 @@
-# protel
+Deteksi pakaian
